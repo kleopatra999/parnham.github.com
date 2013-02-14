@@ -15,7 +15,7 @@ When asked about sliding expiration, [Demis](https://twitter.com/demisbellot) (t
 [very helpful](http://stackoverflow.com/questions/14857921/how-to-advance-the-session-timeout-in-servicestack) answer. 
 However, this solution involves a global response filter that will slide the expiry for all authenticated requests 
 but many of our projects revolve around a single-page app that is often 
-[polling the server-side](http://blog.teadriven.me.uk/2012/03/time-for-rest.html) for data. 
+[polling the server-side](http://teadriven.me.uk/2012/03/11/time-for-a-rest) for data. 
 This polling, especially on a kiosked system, would essentially extend the session lifetime indefinitely, 
 what we really want is to extend the session on specific service requests (ones that correspond to user interaction).
 

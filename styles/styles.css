@@ -55,7 +55,7 @@ pre
 {
   padding: 8px 16px;
   background: #191919;
-  border-radius: 4px;
+  border-radius: 8px;
   overflow: auto;
   overflow-y: hidden;
 }
