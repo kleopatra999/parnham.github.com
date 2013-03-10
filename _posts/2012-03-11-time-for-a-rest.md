@@ -19,7 +19,7 @@ large amount of time battling memory leaks, stability and performance issues wit
 implementation we finally switched to ServiceStack which has resolved all of those problems.
 
 
-### A generic instrumentation system written in C#
+### A generic instrumentation system written in C♯
 
 A while back [Justen](http://minimalreadership.blogspot.com) came up with the idea of developing a generic 
 instrumentation system. Many industrial instruments are provided with their own specific software containing 
