@@ -1,18 +1,10 @@
 name: Teadriven
-
 author: Dan Parnham
-
 category_dir: /
-
 url: parnham.github.com
-
 safe: true
-
+auto: true
 pygments: true
-
 lsi: false
-
 permalink: pretty
-
 exclude: README.md
-

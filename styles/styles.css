@@ -30,6 +30,7 @@ header
 	right: 16px;
 	bottom: 4px;
 	font-size: 0.8em;
+	color: #888;
 }
 
 footer
@@ -60,6 +61,17 @@ pre
   border-radius: 8px;
   overflow: auto;
   overflow-y: hidden;
+}
+
+section a.lux 
+{ 
+	float: right; 
+	margin: 0 0 1em 2em; 
+}
+
+section img
+{
+	box-shadow: 2px 2px 3px #444;
 }
 
 .post
