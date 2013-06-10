@@ -104,18 +104,6 @@ simply provides a way of connecting them together in a secure manner. It was ini
 developed for use in the [Qui](http://www.psi-ltd.com/biometrics) project.
 
 
-#### Legato
-
-Our instrumentation system, [Legato](http://www.emergent-design.co.uk/legato), makes
-heavy use of javascript for its single page front-end and due to the complexity 
-we developed it using mootools to provide pseudo-classes with inheritance. 
-
-I feel that Legato would benefit greatly from porting to Dart which would make
-the code more manageable and simpler to extend further. Unfortunately we don't
-have time to work on this at the moment but it is definitely on the ever expanding
-agenda.
-
-
 ### Conclusion
 
 Dart is a very promising project which can greatly improve the development experience
