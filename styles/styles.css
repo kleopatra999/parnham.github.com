@@ -1,4 +1,5 @@
 @import url(http://fonts.googleapis.com/css?family=PT+Sans:400,700);
+@import url(http://fonts.googleapis.com/css?family=Ubuntu+Mono);
 
 body
 {
@@ -48,7 +49,7 @@ section
 
 code 
 {
-  font-family: "Courier New", "Lucida Console", monospace;
+  font-family: "Ubuntu Mono", monospace;
   color: #efefef;
   tab-size: 4;
   font-size: 10pt;

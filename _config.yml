@@ -7,4 +7,4 @@ auto: true
 pygments: true
 lsi: false
 permalink: pretty
-exclude: README.md
+exclude: [ README.md ]

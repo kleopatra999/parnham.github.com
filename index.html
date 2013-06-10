@@ -9,7 +9,7 @@ title: Teadriven
 {% for post in site.posts limit: 5  %}
 	<div class="post">
 		<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-		<span class="date">{{ post.date | date: "%d %B %Y" }}</span>
+		<span class="date">{{ post.date | date: "%e %B %Y" }}</span>
 		
 		{{ post.content | split:'<!--break-->' | first }}
 		
